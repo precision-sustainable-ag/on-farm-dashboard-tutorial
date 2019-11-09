@@ -3,7 +3,7 @@ Extending the PSA On-farm Dashboard
 
 > Note: the audience for this tutorial is the PSA team for extending the <https://crownproject.org> dashboard. If you're a visitor to our repo and not part of the team, the code is MIT-licensed for you to copy and learn from, but you won't be able to deploy and develop this app in particular.
 
-Clone this repository
+Clone the repository
 ---------------------
 
 -   Get `git` setup on your computer: <https://www.linode.com/docs/development/version-control/how-to-configure-git/>
@@ -16,7 +16,7 @@ cd your/working/directory/of/choice
 git clone https://github.com/precision-sustainable-ag/on-farm-dashboard.git
 ```
 
-Alternatively, you can forgo git and download the project directly from the repository, but then your changes won't be tracked and will have to be manually merged in.
+Alternatively, you can forgo git and download the project directly from the repository (https://github.com/precision-sustainable-ag/on-farm-dashboard), but then your changes won't be tracked and will have to be manually merged in.
 
 ![Zoom in on Github Download button](github.png)
 
